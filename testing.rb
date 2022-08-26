@@ -9,6 +9,6 @@
 # trimmed_person = TrimmerDecorator.new(capitalized_person)
 # puts trimmed_person.correct_name
 
-puts "What is your name?"
-name = gets.chomp
-puts "Hello #{name}!"
+# puts "What is your name?"
+# name = gets.chomp
+# puts "Hello #{name}!"
