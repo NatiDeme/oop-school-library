@@ -52,7 +52,7 @@ class App
   end
 
   def create_classroom(label)
-    classroom = Classroom.new(label: label)
+    classroom = ClassRoom.new(label: label)
     @classrooms << classroom
     classroom
   end
